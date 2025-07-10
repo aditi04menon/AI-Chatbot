@@ -1,0 +1,1 @@
+system_prompt = "You are a nice helpful assistant. Give one line responses."

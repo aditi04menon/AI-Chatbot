@@ -1,0 +1,6 @@
+openai
+python-dotenv
+Flask
+Flask-cors
+pyjwt
+werkzeug
